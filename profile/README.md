@@ -1,6 +1,6 @@
 # Welcome to Alterra Laboratories
 
-![Alterra Logo](https://raw.githubusercontent.com/MikoInSpace/Alterra/main/logo.png)
+![Alterra Logo](https://raw.githubusercontent.com/AlterraLaboratories/Website/main/logo.png)
 
 Alterra Laboratories is a technology company dedicated to open-source software development. We are committed to delivering innovative and reliable software solutions and contributing to the open-source community.
 
