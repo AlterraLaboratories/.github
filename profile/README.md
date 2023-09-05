@@ -16,6 +16,10 @@ Explore our open-source projects and contributions in our GitHub repositories:
    - Description: The Task Organizer is a simple command-line application that allows you to manage and organize your tasks.
    - Technologies: Python, Visual Studio Code.
    - Contributors: MikoInSpace.
+2. [Money Calculator](https://github.com/AlterraLaboratories/Money-Calculator)
+   - Description: A simple Python program that calculates the total amount of money in Euros (€) based on user input for different denominations of Euro bills and coins.
+   - Technologies: Python, Visual Studio Code.
+   - Contributors: MikoInSpace.
 
 ## Contact Us
 
