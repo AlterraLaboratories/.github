@@ -46,19 +46,19 @@ Explore our open-source projects and contributions in our GitHub repositories:
 
 Bitcoin (BTC): 
 
-bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5
+```bc1qesj2dzp4p7mnnyf8rhqpa4l82xl49ngepcvkf5```
 
 Bitcoin Cash (BTH):
 
-bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3
+```bitcoincash:qqtcalj6ky6fckwsthfy7u6aru388lkm45p4raqgk3```
 
 Ethereum (ETH): 
 
-0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913
+```0xd0Af6A651739fbD7BE2309005C8A6566EB3ba913```
 
 Dogecoin (DOGE): 
 
-A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ
+```A6f3NpcRc9VD5qpUGvyyycoRRt8dLpPEeZ```
 
 ---
 
