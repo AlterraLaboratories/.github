@@ -40,6 +40,17 @@ Explore our open-source projects and contributions in our GitHub repositories:
 </p>
 </details>
 
+<details>
+<summary>Weather App</summary>
+<p>
+
+- Description: A Python program that retrieves and displays weather information from the weatherapi.com API based on user input.
+- Technologies: Python, Visual Studio Code, weatherapi.com.
+- Contributors: MikoInSpace.
+
+</p>
+</details>
+
 ---
 
 ## Donate
