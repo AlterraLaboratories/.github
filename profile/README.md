@@ -87,5 +87,3 @@ We look forward to hearing from you and working together on exciting open-source
 ## License
 
 This organization and its repositories are licensed under the [MIT License](LICENSE).
-
-&copy; 2023 Alterra Laboratories
